@@ -1,8 +1,4 @@
-State bank of india
-T.Arunavathi
-A/no: 55147895542
-Banaswadi branch
------
+
  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300" rel="stylesheet" />
 
 font-family: Segoe UI Semilight
