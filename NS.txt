@@ -1,0 +1,526 @@
+Ghttp://www.ignouhelp.in/ignou-mca-study-material/
+Jjiohome  = 8310076910
+vodafonehome = -9513792915
+money order no: 045780490840250030
+giowinet- 6360137569
+videocon d2h: 149389854
+Customer Care No: 91156 91156
+--------------------------
+vipassana
+gurukathir89@gmail.com
+Netm0an12345@
+user:guru
+no 254 sri reddy street,banaswadi,kalyan nagar
+bangalore
+----------
+Thangadurai.R
+sbi ac/no: 00000020236919925
+--------------------------
+
+32382057680
+
+-------------
+thangadurai_rajamanickampillai@outlook.com
+
+math vids taken upto: 12
+
+https://invis.io/EXQ6YEABQ5P
+------------
+http://localhost/NS/app/#!/forgottenPassword
+
+====================
+https://app.nodlspot.com
+
+http://localhost/NS/app/#!/userConfirmation/973912c3-e9c5-42f8-a00b-4cc69864958c
+
+https://app.nodlspot.com
+#!/setup/org
+
+/org/settings
+
+font-family: 'Segoe UI Semilight';
+
+
+https://201264bitdev/NS/app/#!/signup
+
+https://201264bitdev/NS/app/#!/signin
+http://201264bitdev/NS/app/#!/signin
+
+http://201264bitdev/NS/app/#!/signin
+
+http://localhost/NS/app/#!/signin
+
+http://localhost/NS/app/!#/signin
+
+start page : #!/signin
+NS/app/#!/signin
+
+https://projects.invisionapp.com/share/SQQAM88X65U#/screens/344389875
+trajamanikam@itsltduk.com
+
+Owner ids for NodlSpot orgnisation
+---------------------------------
+user: trajamanikam@its-group.com
+pasword change 01/07/2019 : Netm0an123
+
+old Password: Netm0an12345
+
+
+NodlSpot version 12 release: Changeset:  12983
+https://projects.invisionapp.com/share/W3QC7UO6T2S#/screens/344944271
+trajamanikam@its-group.com
+gdurai@its-group.com
+GKathiresan@its-group.com
+C0atstand
+trajamanikam@its-group.com
+ksenthilraja@its-group.com,
+kpaulsamy@its-group.com,
+
+gdurai@its-group.com
+Netm0an@123
+
+arjunkumarsanjayaslfdaslkfdsadfsadf,kumarsanjayveerurameshprabu,arjun3@gmail.com,
+thelongesnameasfdasdfsadfsadfasdfasdfsadfsadf,verylonglastname,seenu3@gmail.com,
+thisisanotherfirstnamelongcharacter,thisissecondlargestlongnamesfulldetails,ramesh3@gmail.com,
+BGanapathy@its-group.com,
+kumar,sanjay,kumar@gmail.com,
+
+
+murali,kavin,murali@gmail.com,
+kishore,raju,kishore@gmail.com
+
+member with different fname and lanem
+---------------------------------
+GKathiresan@itsltduk.com
+trajamanikam@its-group.com
+GKathiresan@its-group.com
+gdurai@its-group.com
+ksenthilraja@its-group.com,
+kpaulsamy@its-group.com,
+nanand@its-group.com
+SChethampady@its-group.com
+BGanapathy@its-group.com
+RMuthuramalingam@its-group.com
+
+its production email
+softwaresupport@itsltduk.com 
+-------------------------
+
+select * from CDUser
+select * from CDUserDetail
+select * from Product
+select * from Permission
+select * from Licence
+select * from Organisation
+select * from linkstore
+select * from subscribtion
+
+select * from customerfeedback
+select * from nsuser
+select * from organisation
+
+
+EXEC sp_MSForEachTable "ALTER TABLE ? NOCHECK CONSTRAINT all"
+
+-- delete data in all tables
+EXEC sp_MSForEachTable "DELETE FROM ?"
+
+-- enable all constraints
+exec sp_MSForEachTable "ALTER TABLE ? WITH CHECK CHECK CONSTRAINT all"
+============================
+
+-----------
+https://teamtreehouse.com/community/angularjs-searching-and-filtering-an-array-issue
+-----------------
+ 
+Nodlspot secrect key:051313AF-B653-430E-8188-300739F53DD0
+
+NS color: #2F9688
+-----------------------
+http://localhost/NS/Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+
+Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+
+http://201264bitdev
+
+http://201264bitdev/NS/Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+
+http://localhost/NS/images/ground.JPG
+http://201264bitdev/NS/app/signin
+-------------
+
+https://201264bitdev/ps/paymentpage.aspx
+PayUrl
+http://localhost/ps/paymentpage.aspx
+
+
+https://www.aspsnippets.com/Articles/Automatically-detect-Browser-Language-and-Culture-in-ASPNet-using-C-and-VBNet.aspx
+http://192.168.1.32/cider/api/version/1/051313AF-B653-430E-8188-300739F53DD0
+
+servername:itsdev3
+pass: Netm0an
+--------------
+Receive my feedback emails
+
+ITS_PayServices_DB
+===============
+http://201264bitdev/NS/app/signin
+http://201264bitdev/NS/Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+https://henchman.atlassian.net/login?
+https://192.168.10.53/ui/#/host/vms/53 
+
+https://infotechnologysupply.sharepoint.com/sites/Development/Shared%20Documents/Products/Payment%20Gateways
+
+
+C:\Program Files\Microsoft SQL Server\MSSQL13.MSSQLSERVER\MSSQL\Backup\payservice
+
+Release check list
+-----------------
+https://teams.microsoft.com/_#/docx/viewer/teams/https:~2F~2Finfotechnologysupply.sharepoint.com~2Fsites~2FNodlspot~2FShared%20Documents~2FGeneral~2FRelease%20Check%20List.docx?threadId=19:38e6a3a396c0436f89cd16a9c4baadd5@thread.skype&baseUrl=https:~2F~2Finfotechnologysupply.sharepoint.com~2Fsites~2FNodlspot&fileId=57C64133-F440-4265-9C64-424816EAF14B&ctx=files&viewerAction=view
+
+http://itsdev1.onelog.com/itslanguagemanager/upload.aspx
+http://itsdev1.onelog.com/itslanguagemanager/edit.aspx?lang=es&product=NS_Web
+
+http://itsdev1.onelog.com/itslanguagemanager/upload.aspx
+http://itsdev1.onelog.com/itslanguagemanager/edit.aspx?lang=es&product=NS_Web
+
+----------------
+Almond
+Raw pumkin seeds
+Athi palam
+------------------
+https://192.168.1.14/ui/#/host/vms/32
+===============
+https://www.google.com/search?q=csv+escaping+quotes&ie=utf-8&oe=utf-8&client=firefox-b
+======
+https://invis.io/42IE8WHGNVE
+
+http://localhost/ns/Feedback?user=5658626DBB2F281250B27558C2E4D67DA83C2F346B866BCC6CE6DB8E67BB70A3F6C9527253620D735D082C3A1464CB3984CF6EEE05D4BCE5DC37B98BC37A25F7C305717C68ECDF5680C3134AD1251D14DB2E5F0FD2FF611A
+
+https://github.com/asafdav/ng-csv
+http://embed.plnkr.co/rTDfek/preview
+----------------------------
+http://201264bitdev/NS/app/signin
+https://201264bitdev/NS/app/signin
+https://201264bitdev/NS/n/#!/usermanagement
+http://localhost/NS/n/#!/usermanagement
+NS:branch testing
+App.Nodlspot.com
+
+sr-serbian
+de-Germany
+fr-france
+es-spanish
+en-english
+en-gb
+en -us
+------------------------------
+http://localhost/NS/Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+
+http://201264bitdev/NS/Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+
+http://201264bitdev/app/signin
+
+http://201264bitdev/NS/app/signin
+/page/payment
+
+------------
+Style Angular Material Nav bar
+#A2CDED
+================
+oracle account details:
+======================
+arunram.developer@gmail.com
+Sqladmin12345@
+
+
+-----------------
+
+4626-guru backdoor password
+============
+you can use either of admin id
+admin
+
+thangadurai_rajamanickampillai@outlook.com
+pass:Netm0an12345@
+
+
+trajamanikam@itsltduk.com
+Netm0an123   //changed 10/12/2018
+Netm0an12345
+Netm0an12345   //changed 10/08/2018
+
+
+trajamanikam@itsltduk.com
+Netm0an123  
+
+GKathiresan@itsltduk.com
+C0atstand
+
+TDhanachamy@itsltduk.com
+Netm0an1
+
+
+trajamanikam@its-group.com
+Netm0an12345
+GKathiresan@its-group.com
+
+Renée ,Zoë ,Adrián,Mónica ,Seán ,Ruairí ,Mathéo ,Mátyás
+Jokubas
+Sørina
+
+http://201264bitdev/NS/app/signin
+
+Owner ids for NodlSpot orgnisation
+---------------------------------
+trajamanikam@itsltduk.com
+Netm0an12345
+
+Netm0an123
+gdurai@its-group.com
+
+member with different fname and lanem
+---------------------------------
+http://201264bitdev/NS/app/#!/signin
+ksenthilraja@its-group.com,
+kpaulsamy@its-group.com,
+GKathiresan@itsltduk.com,
+GDurai@its-group.com,
+
+trajamanikam@its-group.com
+GKathiresan@its-group.com
+nanand@its-group.com
+mark@its-group.com
+
+thangadurai
+http://localhost/ns/Feedback?user=7C4A1668530BD4F8AB341E7B2686890F2E6ACFB53B3A75A9038FD1E0DD6F3D7DAF40CF8745C8D3A4AEE30770A08A12977980B8087BDF4AE643500172E7C98C049157FE631FD08C6A08A8669ADCD5B5F54BE23305ECEF5AC4
+
+http://localhost/ns/Feedback?user=862E15883E43B8941AAEB627D1D4DBE31265B876886299BC91B80D478C25ADD7F3D4ABD1AE5A20D0515EF074E857826974C5C015350DA380634766F70AA6B01C8BF5C5E48E7A16191A721198C80091CFD1A9A6FD6CB919C2
+
+
+http://localhost/ns/Feedback?user=550283C3AF0BC9B0305D0FD12FFE5165202FC75F21679793EEFE804FEFD92078E8EB5F79F9946A194EBA0F7A33255CD09AD9C58817CE34549FBBD425A5333B68017AB6582B8E825A4D2B24735997624ACFD9FB75EA7C67DB
+=============
+NodlSpot Testing
+=================
+Test below language
+de(german),en(english),en_gb,en_us,es(spanish),fr(french),sr(serbian),ta(Tamil)
+-------------------
+vmwware
+name:root
+pass:C0atstand
+
+system user:administrator
+pass:Netm0an
+-------------------
+http://201264bitdev/NS/app/signin
+
+
+http://localhost/ns/app/signin
+http://localhost/NS/app/signin
+http://localhost/NS/n/#!/org/settings
+http://localhost/NS/n/#!/usermanagement
+http://localhost/NS/n/#!/myrating
+http://localhost/NS/n/#!/userrating
+
+http://localhost/NS/Feedback?user=DF1085C3EC063E6707A753B6CDCC206B92D1C550C762BC4D991167218D0B1B4A5AE7DE3FF245D5A07B621E5A8DAA3544DCECD97383CCA6599A9EA2A110CC08BCE92A451E39D14130E90DEF14E820693049C16BFECC51FD28
+
+
+Landingpage.aspx?ServiceCode=83AF7A3A591D32CC6AA8C202607EA908157ECB1DB3FFBD84E2D95B2D948BD92BE302229B0FB3794D3270C0BF79DC296697033249FD04036AC14E11E33CE821C176F8FFD4936F1EC4EAC59C9F87DF026542FBB67D8E9359A6
+
+83AF7A3A591D32CC6AA8C202607EA908157ECB1DB3FFBD84E2D95B2D948BD92BE302229B0FB3794D02AAACFEE9AD727BEE064A9E6D90F7477A6C633616990EAF42B86493FF992C8F905731CB13C2786AFB0A4CD4E5BEA675
+
+
+https://stackoverflow.com/questions/22690114/internet-explorer-11-wont-set-cookies-on-a-site?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
+
+------------
+http://localhost/NS/app/#!/signin
+http://localhost/HS/app/#!/signin
+https://localhost/NS/app/#!/signin
+http://201264bitdev/NS/app/signin
+https://201264bitdev/NS/app/signin
+
+
+select * from CustomerFeedback
+select * from NSUser
+=========================
+Angular material design
+create div with layout=row for each item
+================
+for kids movies
+
+Otis Aguilar
+TheJoakoXD
+franklyn Fabian Calagua el nacy
+baby youtube play
+============
+How to Solve Javascript Cross Domain
+Introduction - JavaScript Tutorials with Lydia Hallie
+JavaScript Getters and Setters
+Debugging JavaScript
+Kyle Robinson Young
+JavaScript Proxy
+---
+
+
+for dibs test account
+------------------
+email:trajamanikam@itsltduk.com
+CoatstandIts5@
+
+cardnumber:4925000000000004
+exipry date:today
+ccv :any 3 digit
+
+test api:https://test.api.dibspayment.eu/v1/payments/
+
+key:test-secret-key-dc0fbd5c68ea4fbd9e5eebb9b200f532
+(DIBS Merchant ID: 100002617)
+
+login url: http://secure.incab.se/manager/
+Select DIBS Manager
+Shopname: InfoTech
+Username: admin
+Password: C0atstand@#
+
+We don't have this to hand all info we have is as follows:
+Login url: https://payment.architrade.com/login/login.action?request_locale=sv_SE (https://payment.architrade.com/login/login.action?request_locale=sv_SE)
+Select DIBS Manager
+Shopname: InfoTech
+Username: admin
+Password: C0atstand@#
+==============================
+post office
+05/10/2018 13.01 Veppur(sa)-606304 redirected to Nainarpalayam.
+03/10/2018 13.42 banaswadi s.o-560043 booked
+04/10/2018 10.03 Veppur(sa)-606304 picked by payment office
+emo: 152676385543238010
+
+https://www.indiapost.gov.in/vas/pages/LocatePostOffices.aspx
+Nainarpalayam S.O    606301    Sub Post Office (Delivery Office)    EMS
+E-Payment
+Epost
+IFS
+Inland Speed Post
+Instant Money Order
+International Mails
+Money Order
+Postal Banking Service
+Postal Life Insurance
+Postal Stationary
+Registered Posts
+    Villupuram taluk of Villupuram district, Tamil Nadu state    04151251450     Kallakurichi H.O in Vriddhachalam Division Central Region, Trichirapalli Tamilnadu Circle
+-----------------------
+https://my-free-mp3.blogspot.com/p/hrithik-roshan-all-mp3-songs-download.html
+
+================
+javascript
+moment js
+date-fns
+lodash,
+moustache,
+handlebar,
+dust
+jquery template
+
+qunit testing
+
+mocha - for node js testing
+chai for node js testing
+
+http://swisnl.github.io/jQuery-contextMenu/demo.html#example-html-simple-context-menu
+=====================
+XMLHttprequest
+
+https://developer.mozilla.org/en-US/docs/Web/API/FormData/Using_FormData_Objects
+
+asp.net web forms
+--------------------
+https://docs.microsoft.com/en-us/aspnet/web-forms/overview/data-access/introduction/creating-a-data-access-layer-cs
+https://docs.microsoft.com/en-us/aspnet/web-forms/overview/data-access/#editinsertdelete
+=======
+
+=================
+
+
+
+
+ecommerce links
+------------------
+ecommerce product quick view
+Amazon like Product Images Showcase for Shopping Cart
+create a Shopping Cart using HTML and CSS3
+https://codyhouse.co/gem/css-product-quick-view
+
+
+
+online fm radio
+https://uk.radioonline.fm/
+bbc4
+
+=============================
+
+task: angular js click to open popup
+http://jsfiddle.net/92z54z04/1/
+
+-----------------
+Books list
+
+Make It Stick: The Science of Successful Learning 1st Edition
+by Peter C. Brown (Author), Henry L. Roediger III (Author), Mark A. McDaniel 
+
+leo babuata forms
+https://docs.google.com/forms/d/e/1FAIpQLSf45WOA3EgEBMBzjYxdvFwpe4PxJapqdIvZ32UY3W6_q4o4Jw/viewform?c=0&w=1
+https://docs.google.com/forms/d/e/1FAIpQLSflVhc41sDF-0KvsvcKEZaNm2cxPdfh1PztFn3upaXfWIu9MA/viewform
+----------------------------
+videoCon d2h : 149389854
+
+Registered mobile : 9742998632
+
+call no 18001370777
+
+
+
+
+
+
+
+
+
+uber api
+youtube api
+googel api
+map api
+weather api
+zomato api
+twitter api
+linkedin api
+facebook api
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,45 @@
+https://www.irctc.co.in/nget/train-search
+https://www.irctc.co.in/nget/train-search
+
+sriramthangadurai
+Netm0an123
+
+
+bangalore:SBC
+YPR: yeswanthpur
+chennai:MAS
+tanjore:TJ
+trichy: TPJ
+Erode: ED
+
+
+joggGio: 8310076910
+offgio:  6362012076
+voda:    9986988556
+
+------------------
+
+===========old login
+ramthanga
+Sriram12345@
+===========new login=======
+sriramthangadurai
+Netm0an123
+
+BANASWADI :BAND
+contonement: BNC
+mailadurai: MV
+virudhachalam: VRI
+
+Mayiladuturai to mysore 16231
+16231 train no
+MV --myayiladuturai
+BNC --contaonement-bangalore
+
+mysore to mayiladuturai -16232
+BNC --contaonement-bangalore
+MV --myayiladuturai
+
+https://www.irctc.co.in/eticketing/loginHome.jsf
+
+https://stackoverflow.com/questions/1922040/how-to-resize-an-image-c-sharp

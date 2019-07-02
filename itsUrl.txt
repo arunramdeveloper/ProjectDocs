@@ -1,0 +1,209 @@
+State bank of india
+T.Arunavathi
+A/no: 55147895542
+Banaswadi branch
+-----
+ <link href="https://fonts.googleapis.com/css?family=Open+Sans|Roboto:300" rel="stylesheet" />
+
+font-family: Segoe UI Semilight
+
+font-family:Roboto, Helvetica Neue, sans-serif
+-------------------------------------------------
+
+
+thangadurai_rajamanickampillai@outlook.com
+password:Netm0an12345@
+skype name:live:thangadurai_rajamanickampil
+---------
+
+test credit card numbers for master and visa card test numbes
+https://www.paypalobjects.com/en_AU/vhelp/paypalmanager_help/credit_card_numbers.htm
+
+itspeople
+http://itsdev1.onelog.com/itspeople/default.aspx?user=C4FB967A-2177-4872-96FD-7370AA0A4DD0
+
+timesheet url
+http://itsdev1.onelog.com/timesheet/default.aspx?joindate=2015-05-04&username=trajamanikam
+
+https://henchman.atlassian.net/login?
+https://192.168.10.43/ui/#/host/vms/53 
+root/C0atstand
+administrator/Netm0an
+
+https://infotechnologysupply.sharepoint.com/sites/Development/Shared%20Documents/Products/Payment%20Gateways
+
+https://download.its-cs.com/PaymentGateways/ParentPay.aspx
+http://halford.onelog.com:8080/tfs
+
+http://201264bitdev/NS/app/signin
+http://201264bitdev/NS/Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+trajamanikam
+
+----------
+publishing to production
+
+SoftwareSupport@itsltduk.com
+---TFS location
+
+http://halford.onelog.com:8080/tfs
+Dev\GKathiresan
+Dev\TRajamanikam 
+Password: Kipper45
+----------
+https://infotechnologysupply.sharepoint.com/sites/Development/SitePages/Home.aspx?RootFolder=%2Fsites%2FDevelopment%2FShared%20Documents%2FProducts%2FPayment%20Gateways%2F%5FBKM&FolderCTID=0x012000686431C0BC9A1F4FA17705BD15352865&View=%7B0A24EC4A%2DE722%2D4AD8%2D8CE2%2DE02DF8A0BDF7%7D 
+
+
+
+BKM
+This is for our Turkish market. 
+-------------
+ITS Product checklist for release
+
+https://teams.microsoft.com/_#/docx/viewer/teams/https:~2F~2Finfotechnologysupply.sharepoint.com~2Fsites~2FNodlspot~2FShared%20Documents~2FGeneral~2FRelease%20Check%20List.docx?
+
+https://teams.microsoft.com/l/file/57C64133-F440-4265-9C64-424816EAF14B?tenantId=d5fc8608-a234-481e-bfba-71b6a033ece3&fileType=docx&objectUrl=https%3A%2F%2Finfotechnologysupply.sharepoint.com%2Fsites%2FNodlspot%2FShared%20Documents%2FGeneral%2FRelease%20Check%20List.docx&baseUrl=https%3A%2F%2Finfotechnologysupply.sharepoint.com%2Fsites%2FNodlspot&serviceName=teams&threadId=19:38e6a3a396c0436f89cd16a9c4baadd5@thread.skype&groupId=a2e2e15f-4edc-449c-a145-c6ebbb74aa93
+
+threadId=19:38e6a3a396c0436f89cd16a9c4baadd5@thread.skype&baseUrl=https:~2F~2Finfotechnologysupply.sharepoint.com~2Fsites~2FNodlspot&fileId=57C64133-F440-4265-9C64-424816EAF14B&ctx=files&viewerAction=view
+----
+The remote debugger (msvsmon.exe) must be running on the remote computer. For more information, see Remote debugging.
+
+===========
+ITS product group meeting
+
+https://teams.microsoft.com/_#/conversations/General?
+threadId=19:38e6a3a396c0436f89cd16a9c4baadd5@thread.skype&ctx=channel&context=Tools
+
+=========================================
+
+http://201264bitdev/NS/Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+
+http://localhost/NS/Services/Feedback/Send/Email/Legend/051313AF-B653-430E-8188-300739F53DD0
+
+http://localhost/NS/n/#!/usermanagement
+
+ test url : https://preprod-api.bkmexpress.com.tr/custom
+	BKM testing
+	user: prefinartz@bkm.com 
+	password: 147258
+	otp:123456
+====================
+============================
+
+
+https://stackoverflow.com/questions/929131/how-do-i-resolve-http-error-500-19-internal-server-error-on-iis7-0
+HTTP Error 500.19
+
+IIS advanced settings Physical path for all web projects
+%SystemDrive%\inetpub\wwwroot
+--------------------
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+===================================================
+
+javascript xmlhttprequest: get
+  
+javascript xmlhttprequest: post
+
+javascript xmlhttprequest: post with param
+
+javascript xmlhttprequest: post json
+
+
+http://igstan.ro/posts/2009-01-11-ajax-file-upload-with-pure-javascript.html
+https://www.javascripture.com/XMLHttpRequest#Constructors
+https://gist.github.com/EtienneR/2f3ab345df502bd3d13e
+https://dzone.com/articles/ajax-using-xmlhttprequest-object-and-fetch-api
+https://medium.com/beginners-guide-to-mobile-web-development/the-fetch-api-2c962591f5c
+https://gomakethings.com/why-i-still-use-xhr-instead-of-the-fetch-api/
+https://developer.chrome.com/extensions/xhr
+https://docs.oracle.com/cd/E65485_01/books/OnDemRESTAPI/OnDemRestAPI_Start10.html
+https://www.the-art-of-web.com/javascript/ajax/
+https://www.freecodecamp.org/forum/t/get-json-with-the-javascript-xmlhttprequest-method/197547
+https://learn.freecodecamp.org/data-visualization/json-apis-and-ajax/get-json-with-the-javascript-xmlhttprequest-method/
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+https://stackoverflow.com/questions/3038901/how-to-get-the-response-of-xmlhttprequest
+https://www.tutorialspoint.com/ajax/what_is_xmlhttprequest.htm
+https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy
+
+https://sabe.io/tutorials/using-push-js-display-web-browser-notifications
+
+https://sabe.io/tutorials/using-axios-pull-data-rest-api
+
+https://www.javascripture.com/XMLHttpRequest
+https://xhr.spec.whatwg.org/
+
+https://success.clarizen.com/hc/en-us/community/posts/360020462093-Cannot-authenticate-to-the-API-with-an-XMLHTTPRequest-in-JavaScript
+
+
+
+
+
+
+
+
+===========
+mca ignou question papaer
+
+https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202017/SOCIS/SOCIS.htm#socis5
+https://webservices.ignou.ac.in/Pre-Question/
+http://entrance-exam.net/ignou-mca-papers/
+http://www.ignouhelp.in/ignou-question-papers/
+http://www.myignou.in/2015/05/ignou-mca-december-2014-question-papers.html
+http://www.ignouhelp.in/ignou-mca-question-papers/
+
+mca semester books
+https://improving-knowledge.blogspot.com/2018/04/ignou-mca-first-semester-books-free-download.html
+https://improving-knowledge.blogspot.com/2018/04/ignou-mca-first-semester-books-free-download.html
+
+https://auhippo.com/2018/02/26/ma6566-discrete-mathematics-previous-year-question-papers/
+
+
+
+====================
+online books
+
+https://zenhabits.net/mindfulness-ebook/
